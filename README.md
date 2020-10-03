@@ -8,7 +8,7 @@ Features:
     * https://www.komputerswiat.pl/.feed
     * http://www.rmf24.pl/sport/feed
     * http://xmoon.pl/rss/rss.xml
- - Adding articles into database table named articles (id,title,date,content,link,dbDate)
+ - Adding articles into database table named articles (id, title, date, content, link, dbDate)
  - Max 5 newest articles for single RSS
  - Checking if RSS responds and isn't empty
  - Logging into **src/logs.txt** file
