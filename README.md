@@ -4,7 +4,6 @@ RSS reader
 RSS reader is a PHP script searching for articles in RSS-links and adding their content into MySQL database.
 
 Features:
-
  - support for RSS links:
     * https://www.komputerswiat.pl/.feed
     * http://www.rmf24.pl/sport/feed
@@ -17,9 +16,10 @@ Features:
 # Visuals
 
 <img src = "img/phprespond.PNG">
+
 ---
+
 <img src = "img/database.PNG">
----
 
 # Installation
 
@@ -27,7 +27,7 @@ There are several ways to install RSS reader.
 
 ## Git:
 
- 1. Clone the URL **link** into any directory.
+ 1. Clone the URL **https://github.com/klebann/RSS-reader.git** into any directory.
  2. import **src/articles.sql** database into new MySQL database named "rss" in phpMyAdmin.
  3. Edit the **src/config.php** file
  4. Upload files into your PHP server
@@ -35,7 +35,7 @@ There are several ways to install RSS reader.
  
 ## Archive download:
 
- 1. Download the URL **link** into any directory.
+ 1. Download the URL **https://github.com/klebann/test/archive/master.zip** into any directory.
  2. import **src/articles.sql** database into new MySQL database named "rss" in phpMyAdmin.
  3. Edit the **src/config.php** file
  4. Upload files into your PHP server
@@ -58,10 +58,13 @@ More logs are in **src/logs.txt.**
 # Tested version and programs
 
 SQL Server Version - 10.4.14-MariaDB
+
 PHP Version - 7.2.33
 
 XAMPP Control Panel - v3.2.4
+
 XAMPP for Windows - 7.2.33
+
 Apache Version - Apache/2.4.46
 
 # Contributing
