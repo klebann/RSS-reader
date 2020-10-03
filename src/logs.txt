@@ -1,0 +1,40 @@
+2020-10-02 13:28:46 - Script STARTED
+2020-10-02 13:28:48 - New record ID:1 added successfully
+2020-10-02 13:28:48 - New record ID:2 added successfully
+2020-10-02 13:28:48 - New record ID:3 added successfully
+2020-10-02 13:28:48 - New record ID:4 added successfully
+2020-10-02 13:28:48 - New record ID:5 added successfully
+2020-10-02 13:28:48 - New record ID:6 added successfully
+2020-10-02 13:28:48 - New record ID:7 added successfully
+2020-10-02 13:28:48 - New record ID:8 added successfully
+2020-10-02 13:28:48 - New record ID:9 added successfully
+2020-10-02 13:28:48 - New record ID:10 added successfully
+2020-10-02 13:28:49 - New record ID:11 added successfully
+2020-10-02 13:28:49 - New record ID:12 added successfully
+2020-10-02 13:28:49 - New record ID:13 added successfully
+2020-10-02 13:28:49 - New record ID:14 added successfully
+2020-10-02 13:28:49 - New record ID:15 added successfully
+2020-10-02 13:28:49 - Script ENDED
+2020-10-02 13:48:58 - Script STARTED
+2020-10-02 13:49:00 - New record ID:16 added successfully
+2020-10-02 13:49:00 - Script ENDED
+2020-10-02 14:12:53 - Script STARTED
+2020-10-02 14:12:55 - New record ID:17 added successfully
+2020-10-02 14:12:56 - Script ENDED
+2020-10-03 12:07:11 - Script STARTED
+2020-10-03 12:07:12 - New record ID:18 added successfully
+2020-10-03 12:07:12 - New record ID:19 added successfully
+2020-10-03 12:07:12 - New record ID:20 added successfully
+2020-10-03 12:07:12 - New record ID:21 added successfully
+2020-10-03 12:07:12 - New record ID:22 added successfully
+2020-10-03 12:07:13 - New record ID:23 added successfully
+2020-10-03 12:07:13 - New record ID:24 added successfully
+2020-10-03 12:07:13 - New record ID:25 added successfully
+2020-10-03 12:07:14 - Script ENDED
+2020-10-03 12:23:17 - Script STARTED
+2020-10-03 12:23:46 - Script STARTED
+2020-10-03 12:23:49 - New record ID:26 added successfully
+2020-10-03 12:23:49 - New record ID:27 added successfully
+2020-10-03 12:23:49 - Script ENDED
+2020-10-03 12:26:56 - Script STARTED
+2020-10-03 12:26:57 - Script ENDED
